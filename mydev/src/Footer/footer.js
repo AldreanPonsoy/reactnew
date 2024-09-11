@@ -49,10 +49,10 @@ function Footer() {
                 <i class="fa fa-map-marker" aria-hidden="true"></i> Hyderabad, Telangana 500045
               </p>
               <p>
-                <i class="fa fa-phone" aria-hidden="true"></i> +91 8008146642
+                <i class="fa fa-phone" aria-hidden="true"></i> +63 9174205235
               </p>
               <p>
-                <i class="fa fa-envelope"></i> abcd@example.com
+                <i class="fa fa-envelope"></i> Aldreanponsoy11@gmail.com
               </p>
               <div class="footer-social">
                 

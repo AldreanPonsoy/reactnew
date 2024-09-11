@@ -1,5 +1,12 @@
 export default function About() {
-    return (
-        <h1> About</h1>
+    return ( 
+        <div class="container">
+            <h1>Hi! Im Developer for this Webpage</h1>
+            <div>
+                <p>
+                    NOTE!!!
+                </p>
+            </div>
+        </div>
     )
 }
