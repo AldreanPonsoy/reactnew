@@ -1,6 +1,6 @@
 import React from 'react';
 import './stylefile/Navbar.css';
-import logo from './image/mgoh-logo.jpeg';
+import logo from './image/mylogo.png';
 
 export default function Navbar() {
   return (

@@ -1,26 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,100..900;1,100..900&display=swap');
 
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Asap';
-    text-decoration: none;
-    border: none;
-    outline: none;
-    scroll-behavior: smooth;
-}
-
 :root{
     --bg-color: #141414;
     --second-bg-color: #101a25;
     --text-color: #070707;
     --main-color: #18f7b8;
-}
-
-section{
-    min-height: 100vh;
-    padding: 10rem 9% 2rem;
 }
 
 .header{
@@ -47,6 +31,8 @@ section{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    min-height: 100vh;
+    padding: 10rem 9% 2rem;
 }
 
 .home-content h3{
@@ -154,3 +140,7 @@ section{
     }
 }
 
+.text {
+    font-weight: bold;
+    color: #333;
+}
